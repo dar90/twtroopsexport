@@ -15,4 +15,9 @@ Użycie:
  6. Kliknij "Eksportuj CSV" lub "Eksportuj JSON".
  7. Zaznacz tekst w nowym okienku i go skopiuj.
  
+ Zrzuty ekranu:
  
+ ![image](https://user-images.githubusercontent.com/35890557/134961066-41850c18-62dd-4389-96a8-05359ea52b2e.png)
+ 
+ ![image](https://user-images.githubusercontent.com/35890557/134961112-45d98ac9-88bc-4795-b330-fb59034029be.png)
+
